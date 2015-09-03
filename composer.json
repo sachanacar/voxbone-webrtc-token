@@ -1,7 +1,6 @@
 {
     "name": "voxbone/webrtc-token",
     "description": "This package generates the token used to authenticate your browsers to make calls using Voxbone's WebRTC solution.",
-    "keywords": ["DID, SIP Trunking, VoIP, WebRTC"],
     "homepage": "https://www.voxbone.com",
     "license": "MIT",
     "authors": [
