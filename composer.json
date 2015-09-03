@@ -1,5 +1,6 @@
 {
     "name": "voxbone/webrtc-token",
+    "version": "0.0.1"
     "description": "This package generates the token used to authenticate your browsers to make calls using Voxbone's WebRTC solution.",
     "homepage": "https://www.voxbone.com",
     "license": "MIT",
