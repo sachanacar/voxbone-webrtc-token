@@ -15,7 +15,7 @@ Usage
 
 	`````
 	<?php
-		require 'token.php';
+		require '../token.php';
 	?>
 	`````
 
